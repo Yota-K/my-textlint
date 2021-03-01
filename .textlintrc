@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "max-ten": {
+      "max" : 3
+    },
+    "prh": {
+      "rulePaths": [
+        "./prh.yml"
+      ]
+    },
+    "no-mix-dearu-desumasu": true,
+    "ja-no-mixed-period": true
+  }
+}
